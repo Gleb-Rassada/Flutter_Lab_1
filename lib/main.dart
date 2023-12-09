@@ -10,6 +10,7 @@ import 'package:flutter_lab01_rassada/text2.dart';
 import 'package:flutter_lab01_rassada/text1.dart';
 import 'package:flutter_lab01_rassada/tags.dart';
 
+
 void main() {
   runApp(MyApp());
 }
